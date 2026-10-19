@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1792421111016,
+    "issuedAtMs": 1792433991557,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 8,
-            "versionName": "0.3.5",
+            "versionCode": 10,
+            "versionName": "0.3.7",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "c87c6db5b7ef810ce0914b4d4f43f9e0b1ca660f6f3b49b9624883e533637785",
-            "sizeBytes": 65184447,
+            "sha256": "8a5e78baa5e4f964afe01e6a17f0a699c68d3453e5114d12a072fcf49b74b560",
+            "sizeBytes": 65217363,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.5-8.apk"
+            "file": "phone-0.3.7-10.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 4,
-            "versionName": "0.3.2",
+            "versionCode": 6,
+            "versionName": "0.3.4",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "0fd952f90ec5d1e4ff09cea4de9d81d65b7c491ebcb475e26002b5df8548c273",
-            "sizeBytes": 37755197,
+            "sha256": "5ab04751063337f4910fbe2b859e71d1a991c4410ac6aead57c1c454548a58d8",
+            "sizeBytes": 37777883,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.2-4.apk"
+            "file": "watch-0.3.4-6.apk"
         }
     ],
-    "notesHe": "עדכונים אוטומטיים מאחסון מאומת, ותיקוני חידוש ההתחברות מגרסה 0.3.4."
+    "notesHe": "תיקון: צבע ותווית רמת הסוכר נקבעים עכשיו בדיוק כמו ההתראות, לפי הערך המלא ולא לפי הערך המעוגל לתצוגה."
 }
