@@ -1,0 +1,42 @@
+{
+    "schema": 1,
+    "issuedAtMs": 1792421111016,
+    "protocolVersion": 1,
+    "artifacts": [
+        {
+            "target": "PHONE",
+            "packageName": "il.carelink.companion",
+            "versionCode": 8,
+            "versionName": "0.3.5",
+            "minSdk": 31,
+            "abis": [
+                "arm64-v8a",
+                "armeabi-v7a",
+                "x86",
+                "x86_64"
+            ],
+            "sha256": "c87c6db5b7ef810ce0914b4d4f43f9e0b1ca660f6f3b49b9624883e533637785",
+            "sizeBytes": 65184447,
+            "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
+            "file": "phone-0.3.5-8.apk"
+        },
+        {
+            "target": "WATCH",
+            "packageName": "il.carelink.companion",
+            "versionCode": 4,
+            "versionName": "0.3.2",
+            "minSdk": 30,
+            "abis": [
+                "arm64-v8a",
+                "armeabi-v7a",
+                "x86",
+                "x86_64"
+            ],
+            "sha256": "0fd952f90ec5d1e4ff09cea4de9d81d65b7c491ebcb475e26002b5df8548c273",
+            "sizeBytes": 37755197,
+            "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
+            "file": "watch-0.3.2-4.apk"
+        }
+    ],
+    "notesHe": "Xעדכונים אוטומטיים מאחסון מאומת, ותיקוני חידוש ההתחברות מגרסה 0.3.4."
+}
