@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1792433991557,
+    "issuedAtMs": 1792439894989,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 10,
-            "versionName": "0.3.7",
+            "versionCode": 11,
+            "versionName": "0.3.8",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "8a5e78baa5e4f964afe01e6a17f0a699c68d3453e5114d12a072fcf49b74b560",
-            "sizeBytes": 65217363,
+            "sha256": "412ea5f9824bad686b8b695220099f9ff198b4f979cab445f10a5f3b815b6401",
+            "sizeBytes": 68564656,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.7-10.apk"
+            "file": "phone-0.3.8-11.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 6,
-            "versionName": "0.3.4",
+            "versionCode": 7,
+            "versionName": "0.3.5",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "5ab04751063337f4910fbe2b859e71d1a991c4410ac6aead57c1c454548a58d8",
+            "sha256": "1019db86aa919526528408e072c80db3e66d27fa6cb94a2bf2257ac492712fe1",
             "sizeBytes": 37777883,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.4-6.apk"
+            "file": "watch-0.3.5-7.apk"
         }
     ],
-    "notesHe": "תיקון: צבע ותווית רמת הסוכר נקבעים עכשיו בדיוק כמו ההתראות, לפי הערך המלא ולא לפי הערך המעוגל לתצוגה."
+    "notesHe": "התקנת פני שעון מהטלפון, הכוונה לעריכה, הגדרה מתמשכת, עזרה ואבחון, ומקלדת מספרית להזנת כתובת IP."
 }
