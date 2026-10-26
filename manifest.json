@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1792439894989,
+    "issuedAtMs": 1792992681113,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 11,
-            "versionName": "0.3.8",
+            "versionCode": 12,
+            "versionName": "0.3.9",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "412ea5f9824bad686b8b695220099f9ff198b4f979cab445f10a5f3b815b6401",
-            "sizeBytes": 68564656,
+            "sha256": "06f5498163feec1cc9dd4e5ddee498e194ed5a11add7c076ee2a44dbabfec33c",
+            "sizeBytes": 67818993,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.8-11.apk"
+            "file": "phone-0.3.9-12.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 7,
-            "versionName": "0.3.5",
+            "versionCode": 8,
+            "versionName": "0.3.6",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "1019db86aa919526528408e072c80db3e66d27fa6cb94a2bf2257ac492712fe1",
-            "sizeBytes": 37777883,
+            "sha256": "bdfc1cfc51727bc31de226337a758fc449122ca8f3484e36cb807b1deae5171c",
+            "sizeBytes": 37960977,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.5-7.apk"
+            "file": "watch-0.3.6-8.apk"
         }
     ],
-    "notesHe": "התקנת פני שעון מהטלפון, הכוונה לעריכה, הגדרה מתמשכת, עזרה ואבחון, ומקלדת מספרית להזנת כתובת IP."
+    "notesHe": "פני שעון חדשים עם שניות, גרף סוכר ורמזור; שיפור חידוש ההתחברות ושמירת דוחות ושיתופם. גרסת בדיקה לבדיקת המשתמש במכשירים."
 }
