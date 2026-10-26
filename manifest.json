@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1792992681113,
+    "issuedAtMs": 1793042721592,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 12,
-            "versionName": "0.3.9",
+            "versionCode": 13,
+            "versionName": "0.3.10",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "06f5498163feec1cc9dd4e5ddee498e194ed5a11add7c076ee2a44dbabfec33c",
-            "sizeBytes": 67818993,
+            "sha256": "5bcde452f6b8a5ecfaa23ce4f6b7c7fb53cad07b935b478d3ab654f983c1feac",
+            "sizeBytes": 66204364,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.9-12.apk"
+            "file": "phone-0.3.10-13.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 8,
-            "versionName": "0.3.6",
+            "versionCode": 9,
+            "versionName": "0.3.7",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "bdfc1cfc51727bc31de226337a758fc449122ca8f3484e36cb807b1deae5171c",
-            "sizeBytes": 37960977,
+            "sha256": "8a3115b332da4e82daf2491a8e34c9db2cfb379bf4bf2b2aa0178c500d8512d3",
+            "sizeBytes": 37796663,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.6-8.apk"
+            "file": "watch-0.3.7-9.apk"
         }
     ],
-    "notesHe": "פני שעון חדשים עם שניות, גרף סוכר ורמזור; שיפור חידוש ההתחברות ושמירת דוחות ושיתופם. גרסת בדיקה לבדיקת המשתמש במכשירים."
+    "notesHe": "שיפור עיצוב פני השעון: גרף קומפקטי, שדות תחתונים גדולים ומיושרים, ספרות וקווים מודגשים ופסי סוללה עבים יותר."
 }
