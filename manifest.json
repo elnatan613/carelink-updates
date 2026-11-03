@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1793042721592,
+    "issuedAtMs": 1793735127525,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 13,
-            "versionName": "0.3.10",
+            "versionCode": 14,
+            "versionName": "0.3.11",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "5bcde452f6b8a5ecfaa23ce4f6b7c7fb53cad07b935b478d3ab654f983c1feac",
-            "sizeBytes": 66204364,
+            "sha256": "e7ce2423637aa015555c7297adfd15480f7e47301e7228cb12957c33c1613856",
+            "sizeBytes": 66195528,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.10-13.apk"
+            "file": "phone-0.3.11-14.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 9,
-            "versionName": "0.3.7",
+            "versionCode": 10,
+            "versionName": "0.3.8",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "8a3115b332da4e82daf2491a8e34c9db2cfb379bf4bf2b2aa0178c500d8512d3",
-            "sizeBytes": 37796663,
+            "sha256": "63964af76d520d8d1964570141c37a44c6cc16633558267d80bf6f1d6433a040",
+            "sizeBytes": 37796667,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.7-9.apk"
+            "file": "watch-0.3.8-10.apk"
         }
     ],
-    "notesHe": "שיפור עיצוב פני השעון: גרף קומפקטי, שדות תחתונים גדולים ומיושרים, ספרות וקווים מודגשים ופסי סוללה עבים יותר."
+    "notesHe": "פני שעון חדשים עם שעה גדולה ושניות, גרף סוכר צבעוני ושדות לבחירה. תיקון התאמת שדות בשדרוג."
 }
