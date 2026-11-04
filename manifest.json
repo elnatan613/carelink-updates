@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1793786273822,
+    "issuedAtMs": 1793808497347,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 15,
-            "versionName": "0.3.12",
+            "versionCode": 16,
+            "versionName": "0.3.13",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "4a2cedf41b4026d208eb1a6bde10035aeb6e43b0e112a90e77e176061b73bdb3",
-            "sizeBytes": 66195516,
+            "sha256": "667a088bcf09ba7f3b58127e0b33149e99fbeb5a2b31f92914cc1141f7278f3b",
+            "sizeBytes": 66195584,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.12-15.apk"
+            "file": "phone-0.3.13-16.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 11,
-            "versionName": "0.3.9",
+            "versionCode": 12,
+            "versionName": "0.3.10",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "e456f75ed67b7dce4e31113188f31d6038ca4fb7f69f6bbad9e6648fc68b368f",
+            "sha256": "b7ecac221d462d8738da6c7326615430dd26d700b684a65a0a7b1975144239fd",
             "sizeBytes": 37796663,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.9-11.apk"
+            "file": "watch-0.3.10-12.apk"
         }
     ],
-    "notesHe": "שיפור מרווחים בפני השעון: מד הסוכר, התאריך ושני המדדים התחתונים קרובים יותר למרכז. השעה, הגרף והקווים נשמרו."
+    "notesHe": "תאריך מספרי גדול יותר בפני השעון. סוללה משמאל וצעדים מימין בהתקנה חדשה; בשדרוג יש לבחור את המקורות בעורך. לבחירת מזג אוויר במרכז יש לבחור מקור זמין בשעון."
 }
