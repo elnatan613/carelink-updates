@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1793735127525,
+    "issuedAtMs": 1793786273822,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 14,
-            "versionName": "0.3.11",
+            "versionCode": 15,
+            "versionName": "0.3.12",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "e7ce2423637aa015555c7297adfd15480f7e47301e7228cb12957c33c1613856",
-            "sizeBytes": 66195528,
+            "sha256": "4a2cedf41b4026d208eb1a6bde10035aeb6e43b0e112a90e77e176061b73bdb3",
+            "sizeBytes": 66195516,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.11-14.apk"
+            "file": "phone-0.3.12-15.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 10,
-            "versionName": "0.3.8",
+            "versionCode": 11,
+            "versionName": "0.3.9",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "63964af76d520d8d1964570141c37a44c6cc16633558267d80bf6f1d6433a040",
-            "sizeBytes": 37796667,
+            "sha256": "e456f75ed67b7dce4e31113188f31d6038ca4fb7f69f6bbad9e6648fc68b368f",
+            "sizeBytes": 37796663,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.8-10.apk"
+            "file": "watch-0.3.9-11.apk"
         }
     ],
-    "notesHe": "פני שעון חדשים עם שעה גדולה ושניות, גרף סוכר צבעוני ושדות לבחירה. תיקון התאמת שדות בשדרוג."
+    "notesHe": "שיפור מרווחים בפני השעון: מד הסוכר, התאריך ושני המדדים התחתונים קרובים יותר למרכז. השעה, הגרף והקווים נשמרו."
 }
