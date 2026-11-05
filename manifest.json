@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1793808497347,
+    "issuedAtMs": 1793853308602,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 16,
-            "versionName": "0.3.13",
+            "versionCode": 17,
+            "versionName": "0.3.14",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "667a088bcf09ba7f3b58127e0b33149e99fbeb5a2b31f92914cc1141f7278f3b",
-            "sizeBytes": 66195584,
+            "sha256": "495863daf7dcb64a622f8d0e7d5794e106d20fd3b1007e9d25a8ff375530a398",
+            "sizeBytes": 66195548,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.13-16.apk"
+            "file": "phone-0.3.14-17.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 12,
-            "versionName": "0.3.10",
+            "versionCode": 13,
+            "versionName": "0.3.11",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "b7ecac221d462d8738da6c7326615430dd26d700b684a65a0a7b1975144239fd",
+            "sha256": "b7e6a4a539cc77df124865a2763b923f708028801654b8ec8167a73973293aac",
             "sizeBytes": 37796663,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.10-12.apk"
+            "file": "watch-0.3.11-13.apk"
         }
     ],
-    "notesHe": "תאריך מספרי גדול יותר בפני השעון. סוללה משמאל וצעדים מימין בהתקנה חדשה; בשדרוג יש לבחור את המקורות בעורך. לבחירת מזג אוויר במרכז יש לבחור מקור זמין בשעון."
+    "notesHe": "הגדלה נוספת של התאריך המספרי בפני השעון לקריאות טובה יותר. שאר הפריסה נשמרה. ניתן לבחור את מקורות הסוללה, מזג האוויר והצעדים בעורך פני השעון."
 }
