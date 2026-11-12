@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1793853308602,
+    "issuedAtMs": 1794511954162,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 17,
-            "versionName": "0.3.14",
+            "versionCode": 18,
+            "versionName": "0.3.15",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "495863daf7dcb64a622f8d0e7d5794e106d20fd3b1007e9d25a8ff375530a398",
-            "sizeBytes": 66195548,
+            "sha256": "c7bdebfb05afb8cc6f5cc508f733302385b77efe7ca8d0ed1ff1e3acbdd32bbe",
+            "sizeBytes": 66193368,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.14-17.apk"
+            "file": "phone-0.3.15-18.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 13,
-            "versionName": "0.3.11",
+            "versionCode": 14,
+            "versionName": "0.3.12",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "b7e6a4a539cc77df124865a2763b923f708028801654b8ec8167a73973293aac",
+            "sha256": "b5a7419be9ba830746220a9978fd06d972a89b68ba37ff46d1e8b97ce4801cec",
             "sizeBytes": 37796663,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.11-13.apk"
+            "file": "watch-0.3.12-14.apk"
         }
     ],
-    "notesHe": "הגדלה נוספת של התאריך המספרי בפני השעון לקריאות טובה יותר. שאר הפריסה נשמרה. ניתן לבחור את מקורות הסוללה, מזג האוויר והצעדים בעורך פני השעון."
+    "notesHe": "פני שעון מעודכנים: הסרת פסי ההפרדה והגדלת התאריך. לאחר עדכון הטלפון, עדכנו את פני השעון דרך ״השעון שלי״. חישוב GMI אינו כלול בעדכון זה."
 }
