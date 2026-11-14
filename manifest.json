@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1794511954162,
+    "issuedAtMs": 1794698191194,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 18,
-            "versionName": "0.3.15",
+            "versionCode": 19,
+            "versionName": "0.3.16",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "c7bdebfb05afb8cc6f5cc508f733302385b77efe7ca8d0ed1ff1e3acbdd32bbe",
-            "sizeBytes": 66193368,
+            "sha256": "dac5d26c8df2c3980b3347b975672b77ed721ac48c76116d16bb2ae4c28c1297",
+            "sizeBytes": 67383037,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.15-18.apk"
+            "file": "phone-0.3.16-19.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 14,
-            "versionName": "0.3.12",
+            "versionCode": 15,
+            "versionName": "0.3.13",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "b5a7419be9ba830746220a9978fd06d972a89b68ba37ff46d1e8b97ce4801cec",
-            "sizeBytes": 37796663,
+            "sha256": "9303b57ddc418d49b8043e3f0ffa2e6be08b8b06c109f143639210c6cabc2f93",
+            "sizeBytes": 37845815,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.12-14.apk"
+            "file": "watch-0.3.13-15.apk"
         }
     ],
-    "notesHe": "פני שעון מעודכנים: הסרת פסי ההפרדה והגדלת התאריך. לאחר עדכון הטלפון, עדכנו את פני השעון דרך ״השעון שלי״. חישוב GMI אינו כלול בעדכון זה."
+    "notesHe": "נוסף כרטיס GMI מתחת לגרף: חישוב מקומי ממדידות החיישן ב־14 הימים האחרונים, עם הורדה ראשונית מ־CareLink ושמירה מצומצמת. החישוב מוצג כשיש כיסוי נתונים מספיק. ייתכן אישור חד־פעמי של אזור זמן המשאבה. GMI הוא אומדן ואינו בדיקת A1C במעבדה."
 }
