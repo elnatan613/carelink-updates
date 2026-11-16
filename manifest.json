@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1794698191194,
+    "issuedAtMs": 1794855816491,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 19,
-            "versionName": "0.3.16",
+            "versionCode": 20,
+            "versionName": "0.3.17",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "dac5d26c8df2c3980b3347b975672b77ed721ac48c76116d16bb2ae4c28c1297",
-            "sizeBytes": 67383037,
+            "sha256": "8a5485d2b4566d6be162a7a327cc73f0a15bfa49d2ec2a36ba8195ae3ee9c51a",
+            "sizeBytes": 66526328,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.16-19.apk"
+            "file": "phone-0.3.17-20.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 15,
-            "versionName": "0.3.13",
+            "versionCode": 16,
+            "versionName": "0.3.14",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "9303b57ddc418d49b8043e3f0ffa2e6be08b8b06c109f143639210c6cabc2f93",
-            "sizeBytes": 37845815,
+            "sha256": "5856f582fdba10e3ad22f484781d1d5e2ee91626b709e7fcc1007e3f8fe52499",
+            "sizeBytes": 37862199,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.13-15.apk"
+            "file": "watch-0.3.14-16.apk"
         }
     ],
-    "notesHe": "נוסף כרטיס GMI מתחת לגרף: חישוב מקומי ממדידות החיישן ב־14 הימים האחרונים, עם הורדה ראשונית מ־CareLink ושמירה מצומצמת. החישוב מוצג כשיש כיסוי נתונים מספיק. ייתכן אישור חד־פעמי של אזור זמן המשאבה. GMI הוא אומדן ואינו בדיקת A1C במעבדה."
+    "notesHe": "נוספה בחירת תקופה לחישוב GMI: חודש (30 יום), חודשיים (60 יום) או שלושה חודשים (90 יום). הבחירה נשמרת, והחישוב והורדת ההיסטוריה מותאמים לתקופה שנבחרה. הורדות של 60 ו־90 ימים תלויות בזמינות הנתונים ובתמיכת CareLink."
 }
