@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1794855816491,
+    "issuedAtMs": 1795466941382,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 20,
-            "versionName": "0.3.17",
+            "versionCode": 21,
+            "versionName": "0.3.18",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,16 +15,16 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "8a5485d2b4566d6be162a7a327cc73f0a15bfa49d2ec2a36ba8195ae3ee9c51a",
-            "sizeBytes": 66526328,
+            "sha256": "44df52aebeddfedb33a4c78b40530413e81b0a3dbc237ace1d8db4a1b3b209c8",
+            "sizeBytes": 69288250,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.17-20.apk"
+            "file": "phone-0.3.18-21.apk"
         },
         {
             "target": "WATCH",
             "packageName": "il.carelink.companion",
-            "versionCode": 16,
-            "versionName": "0.3.14",
+            "versionCode": 17,
+            "versionName": "0.3.15",
             "minSdk": 30,
             "abis": [
                 "arm64-v8a",
@@ -32,11 +32,11 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "5856f582fdba10e3ad22f484781d1d5e2ee91626b709e7fcc1007e3f8fe52499",
-            "sizeBytes": 37862199,
+            "sha256": "7fca7707a726f26a3e512fcd2a803c3f793d01d0ad5862eb9e9b1a14fb924356",
+            "sizeBytes": 42867164,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "watch-0.3.14-16.apk"
+            "file": "watch-0.3.15-17.apk"
         }
     ],
-    "notesHe": "נוספה בחירת תקופה לחישוב GMI: חודש (30 יום), חודשיים (60 יום) או שלושה חודשים (90 יום). הבחירה נשמרת, והחישוב והורדת ההיסטוריה מותאמים לתקופה שנבחרה. הורדות של 60 ו־90 ימים תלויות בזמינות הנתונים ובתמיכת CareLink."
+    "notesHe": "נוספו פני שעון רטרו לבחירה לצד העיצוב הדיגיטלי. את הרטרו מתקינים מתוך ״השעון שלי״ ב־CareLink בטלפון. בעריכת פני השעון אפשר להחליף את שדות המידע ולשנות או לכבות את סימון הדופק הגבוה, שמופיע כברירת מחדל מ־120 פעימות לדקה. שדה מזג האוויר זמין לבחירה אם השעון מציע מקור מתאים."
 }
