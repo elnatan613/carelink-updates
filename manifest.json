@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1795469874461,
+    "issuedAtMs": 1795703250748,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 22,
-            "versionName": "0.3.19",
+            "versionCode": 23,
+            "versionName": "0.3.20",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,10 +15,10 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "d50f5bc1db95ba9f21280ae49827997f7da0c9d3d3b9e0c5b561856a362fe8da",
-            "sizeBytes": 69288814,
+            "sha256": "f97d0b60b00030bb4f840b7495fcdc7422c1490a767f7927a162f933f4d58f6f",
+            "sizeBytes": 69362814,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.19-22.apk"
+            "file": "phone-0.3.20-23.apk"
         },
         {
             "target": "WATCH",
@@ -38,5 +38,5 @@
             "file": "watch-0.3.15-17.apk"
         }
     ],
-    "notesHe": "פני שעון הרטרו קיבלו לוח LCD גדול יותר עם פינות תחתונות מעוגלות וללא מסגרת הזהב. אחרי עדכון CareLink, פתחו את ״השעון שלי״ ובחרו ״התקנת פני השעון הרטרו״ כדי לעדכן את העיצוב בשעון. נתוני הסוכר והגדרות פני השעון נשמרים."
+    "notesHe": "שעון הרטרו קיבל תצוגת שעה גדולה עם שניות, פס מתחת לתאריך העברי וקריאת סוכר וחץ מגמה בולטים יותר. אחרי עדכון CareLink, פתחו את ״השעון שלי״ ובחרו ״התקנת פני השעון הרטרו״ כדי לעדכן את העיצוב בשעון."
 }
