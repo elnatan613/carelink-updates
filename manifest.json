@@ -1,13 +1,13 @@
 {
     "schema": 1,
-    "issuedAtMs": 1795703250748,
+    "issuedAtMs": 1795725578819,
     "protocolVersion": 1,
     "artifacts": [
         {
             "target": "PHONE",
             "packageName": "il.carelink.companion",
-            "versionCode": 23,
-            "versionName": "0.3.20",
+            "versionCode": 24,
+            "versionName": "0.3.21",
             "minSdk": 31,
             "abis": [
                 "arm64-v8a",
@@ -15,10 +15,10 @@
                 "x86",
                 "x86_64"
             ],
-            "sha256": "f97d0b60b00030bb4f840b7495fcdc7422c1490a767f7927a162f933f4d58f6f",
-            "sizeBytes": 69362814,
+            "sha256": "d9e785b6d597bab9ed0ff312dfb9e5742441d9907982e3d227c77171a39c0add",
+            "sizeBytes": 69367210,
             "signerSha256": "ee5037c102b3f1543e71b2a320e88ada7a2999a452a6444a84f00cd55de30894",
-            "file": "phone-0.3.20-23.apk"
+            "file": "phone-0.3.21-24.apk"
         },
         {
             "target": "WATCH",
@@ -38,5 +38,5 @@
             "file": "watch-0.3.15-17.apk"
         }
     ],
-    "notesHe": "שעון הרטרו קיבל תצוגת שעה גדולה עם שניות, פס מתחת לתאריך העברי וקריאת סוכר וחץ מגמה בולטים יותר. אחרי עדכון CareLink, פתחו את ״השעון שלי״ ובחרו ״התקנת פני השעון הרטרו״ כדי לעדכן את העיצוב בשעון."
+    "notesHe": "שעון הרטרו מציג את מד הצעדים ומד הסוללה בקשתות בהיקף, דופק גדול יותר ותאריך עברי מודגש מעל הפס. סימון H הוסר. אחרי עדכון CareLink, פתחו את ״השעון שלי״ ובחרו ״התקנת פני השעון הרטרו״."
 }
